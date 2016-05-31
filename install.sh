@@ -6,4 +6,4 @@ cp /app/application/config/config-sample-mysql.php /app/application/config/confi
 sed -i "s/'config'=>array(/&\n\t'RPCInterface'=>'json',/" /app/application/config/config.php
 
 # Install LimeSurvey with the CLI
-cd /app/application/commands/; php console.php install admin password Testing testing@example.com
+cd /app/application/commands/; php console.php install limer limerpassword Testing testing@example.com

@@ -2,8 +2,8 @@
 
 Create a LimeSurvey application (based on [`crramirez/limesurvey`](https://hub.docker.com/r/crramirez/limesurvey/)) with these options preconfigured and installed:
 
-- User name: admin
-- Password: password
+- User name: limer
+- Password: limerpassword
 - RPC API: enabled
 
 **NB: This is totally not a secure installation at all and is really only meant for testing [limer](https://github.com/cloudyr/limer) locally and on Travis-CI.**
